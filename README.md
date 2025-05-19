@@ -23,3 +23,5 @@ HTML5
 CSS3
 
 JavaScript (ES6+)
+
+🔴 Live Demo https://adarsh-70.github.io/Music-Player/
