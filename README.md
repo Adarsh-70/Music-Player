@@ -1,8 +1,13 @@
 # Music-Player
 
-A simple and responsive music player built using HTML, CSS, and JavaScript. This project demonstrates core front-end development concepts such as the DOM, media playback, event handling, and responsive design.
+A simple and responsive music player built using HTML, CSS, and JavaScript.
+
+This project demonstrates core front-end development concepts such as the DOM, media playback, event handling, and responsive design.
+
+🔴 Live Demo https://adarsh-70.github.io/Music-Player/
 
 🚀 Features
+
 🔊 Play, Pause, Next, and Previous track controls
 
 📃 Dynamic song list with title, artist, and album art
@@ -18,10 +23,11 @@ A simple and responsive music player built using HTML, CSS, and JavaScript. This
 📸 Preview
 
 🛠️ Tech Stack
+
 HTML5
 
 CSS3
 
 JavaScript (ES6+)
 
-🔴 Live Demo https://adarsh-70.github.io/Music-Player/
+
